@@ -54,7 +54,9 @@ Users should be able to:
 
 ### What I learned
 
-This is my project using React.js and it was a good intro some basic React features. Although probably would have been easier and quicker to build this vanialla Javascript however I've started to learn React recently and this project has proven to be quite good help to understand the features in depth.  
+
+This is my first project using React.js and it was a good intro to some basic React features. Although it probably would have been easier and quicker to build this with vanilla Javascript, I've started to learn React recently and this project has proven to be quite good help to understand the features in depth.
+
 
 
 ## Acknowledgments
